@@ -1,0 +1,22 @@
+{
+  "wheel_id": 530,
+  "structure": "umbrella",
+  "slug": "retainingwallnewcastle-153",
+  "project": "retaining-wall-construction-newcastle-ef554eeb533bccb70e35d8736",
+  "parent_t1_ref": "retainingwallnewcastle-008",
+  "node_role": "buffer",
+  "money_target": "retainingwallnewcastle.com.au",
+  "primary_kw": "retaining wall construction newcastle",
+  "intended_url": "https://sitesau.github.io/retainingwallnewcastle-153/",
+  "tier": "T2",
+  "writeback_nonce": "290379209a8f20c0",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/retainingwallnewcastle-008/retaining-wall-construction-newcastle.html",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
